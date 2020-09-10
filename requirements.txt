@@ -1,0 +1,9 @@
+Django
+django-filter
+djangorestframework
+joblib
+Markdown
+numpy
+pandas
+requests
+scikit-learn
