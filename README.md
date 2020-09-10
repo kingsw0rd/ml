@@ -1,4 +1,4 @@
-# Deploying Machine Learning through Django
+# Deploying Machine Learning using Django
 
 ## First of all install the requirements to run the project.
 ```
