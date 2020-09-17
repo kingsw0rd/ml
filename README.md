@@ -2,7 +2,7 @@
 
 ## First of all install the requirements to run the project.
 ```
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 ## To Run Django Project
 
